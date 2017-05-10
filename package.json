@@ -22,7 +22,8 @@
     "url": "https://github.com/shailesh9/LogParser"
   },
   "dependencies": {
-    "event-stream": "^3.3.4"
+    "event-stream": "^3.3.4",
+    "q": "^1.4.1"
   },
   "devDependencies": {
     "chai": "^2.3.0",
